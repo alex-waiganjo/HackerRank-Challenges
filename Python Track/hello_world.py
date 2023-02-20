@@ -42,10 +42,7 @@ if __name__ == '__main__':
 # SAMPLE OUTPUT
 # this-is-a-string
 
-
 line= input()
-
-
 def split_and_join(line):
     l = line.split(' ')
     b = "-".join(l)

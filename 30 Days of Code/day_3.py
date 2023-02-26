@@ -8,10 +8,12 @@ Given an integer ,n ,Perform the following conditional actions:
  '''
 
 
- #SOLUTION
+ 
 if __name__ == '__main__':
     N = int(input().strip())
 
+
+#SOLUTIONS
 
 #  Method 1        ------- Good Readable Code -----
 if N%2 ==0:
@@ -33,4 +35,4 @@ if N%2 == 0 and N in range(2,5):
 if N%2 == 0 and N==20 or N in range(6,20):
     print('Weird')
 if N%2 == 0 and N>20:
-    print('Not Weird')     
+    print('Not Weird')   

@@ -45,3 +45,18 @@ Print the results in any order, but exclude duplicates from the answer.'
 
 'SOLUTION'
 SELECT  DISTINCT CITY FROM STATION WHERE MOD(ID,2)=0;
+
+
+
+
+'
+     Weather Observation  Station 4
+
+
+Find the difference between the total number of CITY entries in 
+the table and 
+the number of distinct CITY entries in the table.
+'
+
+'SOLUTION'
+SELECT  COUNT(CITY) - COUNT(DISTINCT CITY) FROM STATION;

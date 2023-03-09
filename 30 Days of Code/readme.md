@@ -8,7 +8,7 @@
 ## 2. Activate the Virtual environment.
 ### Windows
 ```
-venv\Scripts\activate
+    HR\Scripts\activate
 ```
 #Note: To run a single file use the python command before the filename.
 ##For example

@@ -11,7 +11,7 @@
     HR\Scripts\activate
 ```
 #Note: To run a single file use the python command before the filename.
-##For example
+## For Example
 ```
 python day_0.py
 ```

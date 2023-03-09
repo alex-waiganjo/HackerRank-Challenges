@@ -1,5 +1,5 @@
 # Python Solutions to Questions from HackerRank Platform .
-# You might want to have a copy of this work .To achieve that follow the simple steps.
+## You might want to have a copy of this work .To achieve that follow the simple steps.
 ## 1. Clone the Repository and create a Virtual environment.
 ```
     https://github.com/alex-waiganjo/HackerRank-Challenges   
